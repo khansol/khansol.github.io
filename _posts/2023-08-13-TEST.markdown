@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "TEST"
+date:   2023-08-13 09:41:57 +0900
+categories: jekyll update
+---
+블로그에 들어오신 분들 안녕하세요 
+
+이 블로그는, 일과 기술에 관한 경험과 의견을 나누는 공간입니다.  
+
+저는 ERP Consultant로 일하고 있으며, `Business`와 `Data`에 관심이 있습니다.
+제 경험을 정리하고, 나누는 공간이 여러분께도 가치를 얻어갈 수 있는 곳이었으면 좋겠습니다. 
+
+저에 대해 더 많이 알아가시기 위해서는, [LinkedIn][LinkedIn]에서 확인하실 수 있습니다.  
+
+감사합니다. 
+
+[LinkedIn]: https://www.linkedin.com/in/hansol-song-b78436141/
